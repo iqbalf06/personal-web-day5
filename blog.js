@@ -65,10 +65,10 @@ function renderBlog(){
 
             <!-- <i class "fa-brands fa-twitter"></i> -->
             <div class="logo-icon">
-                <i class="fa-brands fa-${dataBlog[index].react}"></i>
-                <i class="fa-brands fa-${dataBlog[index].node-js}"></i>
-                <i class="fa-brands fa-${dataBlog[index].java}"></i>
-                <i class="fa-brands fa-${dataBlog[index].python}"></i>
+                <i class="fa-brands fa-react"></i>
+                <i class="fa-brands fa-node-js"></i>
+                <i class="fa-brands fa-java"></i>
+                <i class="fa-brands fa-python"></i>
             </div>
 
             <div class="btn-group">
