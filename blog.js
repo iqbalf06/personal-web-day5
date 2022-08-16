@@ -110,11 +110,11 @@ function getDistanceTime(startdate, enddate){
 
   if(distanceYear > 0){
 
-    return `${distanceYear} year ago`
+    return `${distanceYear} year`
   } else if(distanceMonth > 0){
-      return `${distanceMonth} month ago`
+      return `${distanceMonth} month`
   } else {
-      return `${distanceDay} day ago`
+      return `${distanceDay} day`
   }
    
 }
