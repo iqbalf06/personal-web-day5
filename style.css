@@ -54,7 +54,7 @@ nav {
 
 .container {
     /* background-color: aqua; */
-    height: 93vh;
+    padding-top: 100px;
     display: flex;
     justify-content: center; /* horizontal */ 
     align-items: center; /* vertical */
@@ -86,12 +86,4 @@ section {
 
 .skill-container img {
     width: 50px;
-}
-
-.social-media {
-    font-size: 30px;
-}
-
-.social-media i {
-    margin-right: 8px;
 }
