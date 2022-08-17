@@ -49,7 +49,7 @@ function renderBlog(){
           <div class="blog-content">
             
               <h1>
-                <a class="judul-content" href="blog-detail.html" 
+                <a class="judul-content" href="myproject-detail.html" 
                 target="_blank">${dataBlog[index].title}</a>
               </h1>
               
